@@ -1,11 +1,11 @@
 # Project_Euler (python)
 
-first study
-2014 / December / group study
-2015 / January / group study
+first group study
+2014 / December
+2015 / January
 
-second study
-2015 / July / group study
+second group study
+2015 / July
 
 Project_Euler
 
